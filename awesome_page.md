@@ -9,4 +9,4 @@ end
 
 [Awesome Link!](www.devbootcamp.com)
 
-![Awesome People]()
+![Awesome People](https://github.com/marcelgalang/phase-0-gps-1/blob/master/awesome-people.png?raw=true)
